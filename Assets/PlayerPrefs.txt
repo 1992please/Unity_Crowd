@@ -1,0 +1,6 @@
+BestDistance
+Score(gold);
+Time
+CuttentLevel
+DiamondsCount
+relifesCount
